@@ -4,11 +4,9 @@ import serial
 class AirMonitor:
     'Check Air'
 
-    def __init__(self):
+    def __init__(self, sensorPath):
         self.pmtwofive = 0
         self.pmten = 0
-
-    def sensorPath(self, sensorPath):
         self.ser = serial.Serial(sensorPath)
 
     def read(self):
