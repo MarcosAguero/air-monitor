@@ -1,0 +1,376 @@
+Time: 15:45:37.642924pmtwofive: 3
+pmten: 8
+Time: 15:45:49.056334pmtwofive: 3
+pmten: 8
+Time: 15:46:00.500163pmtwofive: 3
+pmten: 8
+Time: 15:46:11.908270pmtwofive: 3
+pmten: 8
+Time: 15:46:23.388789pmtwofive: 3
+pmten: 8
+Time: 15:46:34.750613pmtwofive: 3
+pmten: 8
+Time: 15:46:46.147386pmtwofive: 3
+pmten: 7
+Time: 15:46:57.501166pmtwofive: 3
+pmten: 7
+Time: 15:47:08.995346pmtwofive: 3
+pmten: 7
+Time: 15:47:20.377020pmtwofive: 3
+pmten: 7
+Time: 15:47:31.899909pmtwofive: 3
+pmten: 7
+Time: 15:47:43.244254pmtwofive: 3
+pmten: 7
+Time: 15:47:54.638823pmtwofive: 3
+pmten: 7
+Time: 15:48:05.988053pmtwofive: 3
+pmten: 7
+Time: 15:48:17.370129pmtwofive: 2
+pmten: 7
+Time: 15:48:28.813061pmtwofive: 2
+pmten: 7
+Time: 15:48:40.197029pmtwofive: 2
+pmten: 7
+Time: 15:48:51.586712pmtwofive: 2
+pmten: 6
+Time: 15:49:03.016888pmtwofive: 2
+pmten: 7
+Time: 15:49:14.521463pmtwofive: 2
+pmten: 7
+Time: 15:49:25.917261pmtwofive: 2
+pmten: 7
+Time: 15:49:37.270128pmtwofive: 2
+pmten: 7
+Time: 15:49:48.657319pmtwofive: 2
+pmten: 7
+Time: 15:50:00.046445pmtwofive: 2
+pmten: 6
+Time: 15:50:11.413826pmtwofive: 2
+pmten: 6
+Time: 15:50:22.794353pmtwofive: 2
+pmten: 6
+Time: 15:50:34.154377pmtwofive: 2
+pmten: 6
+Time: 15:50:45.544308pmtwofive: 2
+pmten: 6
+Time: 15:50:56.997337pmtwofive: 2
+pmten: 6
+Time: 15:51:08.411992pmtwofive: 2
+pmten: 6
+Time: 15:51:19.823817pmtwofive: 2
+pmten: 6
+Time: 15:51:31.206617pmtwofive: 2
+pmten: 7
+Time: 15:51:42.538113pmtwofive: 2
+pmten: 7
+Time: 15:51:53.897491pmtwofive: 2
+pmten: 7
+Time: 15:52:05.296613pmtwofive: 2
+pmten: 7
+Time: 15:52:16.791263pmtwofive: 2
+pmten: 7
+Time: 15:52:28.201624pmtwofive: 2
+pmten: 7
+Time: 15:52:39.691220pmtwofive: 2
+pmten: 7
+Time: 15:52:51.055146pmtwofive: 2
+pmten: 7
+Time: 15:53:02.407144pmtwofive: 2
+pmten: 7
+Time: 15:53:14.147857pmtwofive: 2
+pmten: 7
+Time: 15:53:25.528006pmtwofive: 2
+pmten: 8
+Time: 15:53:36.894356pmtwofive: 2
+pmten: 8
+Time: 15:53:48.284386pmtwofive: 2
+pmten: 7
+Time: 15:53:59.738616pmtwofive: 2
+pmten: 7
+Time: 15:54:11.483290pmtwofive: 2
+pmten: 7
+Time: 15:54:22.886148pmtwofive: 2
+pmten: 7
+Time: 15:54:34.239040pmtwofive: 2
+pmten: 7
+Time: 15:54:45.609919pmtwofive: 2
+pmten: 7
+Time: 15:54:57.083051pmtwofive: 2
+pmten: 7
+Time: 15:55:08.455123pmtwofive: 2
+pmten: 7
+Time: 15:55:19.888002pmtwofive: 2
+pmten: 7
+Time: 15:55:31.425515pmtwofive: 2
+pmten: 7
+Time: 15:55:42.793334pmtwofive: 2
+pmten: 7
+Time: 15:55:54.196345pmtwofive: 2
+pmten: 7
+Time: 15:56:05.597235pmtwofive: 2
+pmten: 7
+Time: 15:56:16.990799pmtwofive: 2
+pmten: 7
+Time: 15:56:28.468754pmtwofive: 2
+pmten: 7
+Time: 15:56:39.938285pmtwofive: 2
+pmten: 7
+Time: 15:56:51.348271pmtwofive: 2
+pmten: 6
+Time: 15:57:02.756304pmtwofive: 2
+pmten: 7
+Time: 15:57:14.224690pmtwofive: 2
+pmten: 6
+Time: 15:57:25.595387pmtwofive: 2
+pmten: 6
+Time: 15:57:36.991914pmtwofive: 2
+pmten: 6
+Time: 15:57:48.369243pmtwofive: 2
+pmten: 6
+Time: 15:57:59.865156pmtwofive: 2
+pmten: 6
+Time: 15:58:11.295746pmtwofive: 2
+pmten: 7
+Time: 15:58:22.658344pmtwofive: 2
+pmten: 7
+Time: 15:58:34.007691pmtwofive: 2
+pmten: 7
+Time: 15:58:45.377466pmtwofive: 2
+pmten: 7
+Time: 15:58:56.792067pmtwofive: 2
+pmten: 6
+Time: 15:59:08.289764pmtwofive: 2
+pmten: 6
+Time: 15:59:19.669025pmtwofive: 2
+pmten: 7
+Time: 15:59:31.068677pmtwofive: 3
+pmten: 7
+Time: 15:59:42.487596pmtwofive: 3
+pmten: 7
+Time: 15:59:53.850868pmtwofive: 3
+pmten: 7
+Time: 16:00:05.232749pmtwofive: 3
+pmten: 7
+Time: 16:00:16.862551pmtwofive: 3
+pmten: 7
+Time: 16:00:28.284018pmtwofive: 3
+pmten: 7
+Time: 16:00:39.687415pmtwofive: 3
+pmten: 7
+Time: 16:00:51.090242pmtwofive: 3
+pmten: 7
+Time: 16:01:02.589943pmtwofive: 3
+pmten: 7
+Time: 16:01:14.025664pmtwofive: 3
+pmten: 7
+Time: 16:01:25.491267pmtwofive: 3
+pmten: 7
+Time: 16:01:36.903949pmtwofive: 3
+pmten: 7
+Time: 16:01:48.345690pmtwofive: 3
+pmten: 7
+Time: 16:01:59.879127pmtwofive: 3
+pmten: 7
+Time: 16:02:11.326577pmtwofive: 3
+pmten: 7
+Time: 16:02:22.774723pmtwofive: 3
+pmten: 7
+Time: 16:02:34.175463pmtwofive: 3
+pmten: 7
+Time: 16:02:45.615965pmtwofive: 3
+pmten: 7
+Time: 16:02:57.068795pmtwofive: 3
+pmten: 7
+Time: 16:03:08.468345pmtwofive: 3
+pmten: 7
+Time: 16:03:20.001001pmtwofive: 3
+pmten: 7
+Time: 16:03:31.436735pmtwofive: 3
+pmten: 7
+Time: 16:03:42.817878pmtwofive: 3
+pmten: 7
+Time: 16:03:54.231901pmtwofive: 3
+pmten: 7
+Time: 16:04:05.722231pmtwofive: 3
+pmten: 6
+Time: 16:04:17.111940pmtwofive: 3
+pmten: 6
+Time: 16:04:28.520311pmtwofive: 3
+pmten: 6
+Time: 16:04:39.918354pmtwofive: 3
+pmten: 6
+Time: 16:04:51.350555pmtwofive: 3
+pmten: 7
+Time: 16:05:02.726210pmtwofive: 3
+pmten: 7
+Time: 16:05:14.127137pmtwofive: 3
+pmten: 6
+Time: 16:05:25.615365pmtwofive: 3
+pmten: 6
+Time: 16:05:37.049623pmtwofive: 3
+pmten: 6
+Time: 16:05:48.438297pmtwofive: 3
+pmten: 7
+Time: 16:06:00.181620pmtwofive: 3
+pmten: 7
+Time: 16:06:11.739171pmtwofive: 3
+pmten: 7
+Time: 16:06:23.157738pmtwofive: 3
+pmten: 7
+Time: 16:06:34.608598pmtwofive: 3
+pmten: 7
+Time: 16:06:46.076603pmtwofive: 3
+pmten: 6
+Time: 16:06:57.559078pmtwofive: 3
+pmten: 6
+Time: 16:07:08.960474pmtwofive: 3
+pmten: 6
+Time: 16:07:20.365198pmtwofive: 3
+pmten: 6
+Time: 16:07:31.770736pmtwofive: 3
+pmten: 6
+Time: 16:07:43.160434pmtwofive: 3
+pmten: 6
+Time: 16:07:54.565163pmtwofive: 3
+pmten: 6
+Time: 16:08:06.000505pmtwofive: 3
+pmten: 6
+Time: 16:08:17.506719pmtwofive: 3
+pmten: 6
+Time: 16:08:28.931008pmtwofive: 3
+pmten: 7
+Time: 16:08:40.318749pmtwofive: 3
+pmten: 6
+Time: 16:08:51.708250pmtwofive: 3
+pmten: 6
+Time: 16:09:03.110407pmtwofive: 3
+pmten: 7
+Time: 16:09:14.530441pmtwofive: 3
+pmten: 7
+Time: 16:09:25.994312pmtwofive: 3
+pmten: 7
+Time: 16:09:37.693697pmtwofive: 3
+pmten: 8
+Time: 16:09:49.086820pmtwofive: 3
+pmten: 8
+Time: 16:10:00.608908pmtwofive: 3
+pmten: 8
+Time: 16:10:12.095380pmtwofive: 3
+pmten: 8
+Time: 16:10:23.579107pmtwofive: 3
+pmten: 8
+Time: 16:10:35.042320pmtwofive: 3
+pmten: 8
+Time: 16:10:46.420081pmtwofive: 3
+pmten: 9
+Time: 16:10:57.854902pmtwofive: 3
+pmten: 9
+Time: 16:11:09.382992pmtwofive: 3
+pmten: 9
+Time: 16:11:20.798061pmtwofive: 3
+pmten: 9
+Time: 16:11:32.207905pmtwofive: 3
+pmten: 9
+Time: 16:11:43.656121pmtwofive: 3
+pmten: 9
+Time: 16:11:55.079467pmtwofive: 3
+pmten: 8
+Time: 16:12:06.489875pmtwofive: 3
+pmten: 8
+Time: 16:12:17.943352pmtwofive: 3
+pmten: 8
+Time: 16:12:29.324216pmtwofive: 3
+pmten: 8
+Time: 16:12:40.779894pmtwofive: 3
+pmten: 8
+Time: 16:12:52.211884pmtwofive: 3
+pmten: 8
+Time: 16:13:03.712776pmtwofive: 3
+pmten: 8
+Time: 16:13:15.200744pmtwofive: 3
+pmten: 8
+Time: 16:13:28.089191pmtwofive: 3
+pmten: 8
+Time: 16:13:40.298708pmtwofive: 3
+pmten: 8
+Time: 16:13:51.759739pmtwofive: 3
+pmten: 9
+Time: 16:14:03.175595pmtwofive: 3
+pmten: 9
+Time: 16:14:14.629213pmtwofive: 3
+pmten: 8
+Time: 16:14:26.041649pmtwofive: 3
+pmten: 8
+Time: 16:14:37.685690pmtwofive: 3
+pmten: 8
+Time: 16:14:49.089515pmtwofive: 3
+pmten: 8
+Time: 16:15:00.515171pmtwofive: 3
+pmten: 7
+Time: 16:15:12.241785pmtwofive: 3
+pmten: 7
+Time: 16:15:23.634504pmtwofive: 3
+pmten: 7
+Time: 16:15:35.030804pmtwofive: 3
+pmten: 7
+Time: 16:15:46.429406pmtwofive: 2
+pmten: 7
+Time: 16:15:58.973366pmtwofive: 3
+pmten: 7
+Time: 16:16:10.443191pmtwofive: 3
+pmten: 6
+Time: 16:16:21.824478pmtwofive: 3
+pmten: 6
+Time: 16:16:33.298981pmtwofive: 2
+pmten: 5
+Time: 16:16:44.830589pmtwofive: 2
+pmten: 5
+Time: 16:16:56.205866pmtwofive: 2
+pmten: 5
+Time: 16:17:07.643030pmtwofive: 2
+pmten: 5
+Time: 16:17:19.112112pmtwofive: 2
+pmten: 5
+Time: 16:17:30.496796pmtwofive: 3
+pmten: 6
+Time: 16:17:41.886976pmtwofive: 3
+pmten: 6
+Time: 16:17:53.305355pmtwofive: 3
+pmten: 6
+Time: 16:18:04.685203pmtwofive: 3
+pmten: 6
+Time: 16:18:16.059830pmtwofive: 3
+pmten: 6
+Time: 16:18:27.486368pmtwofive: 2
+pmten: 6
+Time: 16:18:39.069090pmtwofive: 2
+pmten: 6
+Time: 16:18:50.575785pmtwofive: 2
+pmten: 6
+Time: 16:19:01.935881pmtwofive: 2
+pmten: 6
+Time: 16:19:13.341789pmtwofive: 2
+pmten: 6
+Time: 16:19:24.719063pmtwofive: 2
+pmten: 5
+Time: 16:19:36.102775pmtwofive: 2
+pmten: 5
+Time: 16:19:47.641147pmtwofive: 2
+pmten: 5
+Time: 16:19:59.056642pmtwofive: 2
+pmten: 5
+Time: 16:20:10.443999pmtwofive: 2
+pmten: 5
+Time: 16:20:21.896474pmtwofive: 2
+pmten: 6
+Time: 16:20:33.286916pmtwofive: 2
+pmten: 5
+Time: 16:20:44.709299pmtwofive: 2
+pmten: 6
+Time: 16:20:56.139605pmtwofive: 2
+pmten: 6
+Time: 16:21:07.506301pmtwofive: 2
+pmten: 6
+Time: 16:21:18.918551pmtwofive: 2
+pmten: 6

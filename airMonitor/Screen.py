@@ -4,8 +4,8 @@
 class Screen:
     'SenseHat Screen (8x8 pixels)'
 
-    def __init__(self):
-        self.sense = SenseHat()
+    def __init__(self, sense):
+        self.sense = sense
         self.message = ''
 
     def displayMessage(self, message, txtColor, bgColor):
