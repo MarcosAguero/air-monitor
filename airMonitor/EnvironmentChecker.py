@@ -5,7 +5,7 @@ class EnvironmentChecker:
     def __init__(self, sense):
         self.sense = sense
         self.humidityValue = 0
-        self.temperatureValue  = 0
+        self.temperatureValue = 0
 
     def get_humidity_round_by(self, decimal_num):
         self.humidityValue = self.sense.get_humidity()
@@ -30,5 +30,3 @@ class EnvironmentChecker:
 
     def get_temperature(self):
         return self.pressureValue
-
-
