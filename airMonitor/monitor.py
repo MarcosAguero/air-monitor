@@ -21,6 +21,7 @@ screen = screen.Screen(sense)
 def uploadData_to_adafruit_io(pmtwofive, pmten):
     aio.send('air-monitor-pm-two-five', pmtwofive)
     aio.send('air-monitor-pm-ten', pmten)
+    aio.send('air-monitor-humidity', humidityValue)
     print("Envio pmtwofive: " + str(pmtwofive) + " pmten: " + str(pmten))
 
 

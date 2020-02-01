@@ -10,3 +10,4 @@ https://www.ftdichip.com/Drivers/VCP.htm - serial Drivers
 
 # References
 https://www.raspberrypi.org/blog/monitor-air-quality-with-a-raspberry-pi/
+https://www.researchgate.net/publication/329809390_Potential_and_Limitations_of_the_Low-Cost_SDS011_Particle_Sensor_for_Monitoring_Urban_Air_Quality

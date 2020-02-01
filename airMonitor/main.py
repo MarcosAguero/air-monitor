@@ -29,6 +29,7 @@ sense.stick.direction_up = shutdown.pushed_up  # cancel
 def uploadData_to_adafruit_io(pmtwofive, pmten):
     aio.send('air-monitor-pm-two-five', pmtwofive)
     aio.send('air-monitor-pm-ten', pmten)
+    aio.send('air-monitor-humidity', humidityValue)
 
 
 def start_air_read_save():
