@@ -10,4 +10,6 @@ https://www.ftdichip.com/Drivers/VCP.htm - serial Drivers
 
 # References
 https://www.raspberrypi.org/blog/monitor-air-quality-with-a-raspberry-pi/
+https://cdn-reichelt.de/documents/datenblatt/X200/SDS011-DATASHEET.pdfx
 https://www.researchgate.net/publication/329809390_Potential_and_Limitations_of_the_Low-Cost_SDS011_Particle_Sensor_for_Monitoring_Urban_Air_Quality
+https://www.howtogeek.com/411925/how-to-reboot-or-shut-down-linux-using-the-command-line/
